@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik785" alt="nik785" /></a> </p>
 
-- 🔭 I’m currently working on **Java management project**
+- 🔭 I’m currently working on **Website**
 
-- 🌱 I’m currently learning **Java servlet**
+- 🌱 I’m currently learning **Front-end webdeveloper**
 
-- 👯 I’m looking to collaborate on **Any Java project.**
+- 👯 I’m looking to collaborate on **Any inernship.**
 
-- 🤝 I’m looking for help with **JSP**
+- 🤝 I’m looking for help with **ecomerce website**
 
 - 📫 How to reach me **nikhilsahu785@gmail.com**
 
