@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik785" alt="nik785" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://repository-images.githubusercontent.com/496566969/5d20dc00-6ff2-4fd3-82f9-8cba1afa11d4" alt="nik785" /></a> </p>
+
 - 🔭 I’m currently working on **Website**
 
 - 🌱 I’m currently learning **Front-end webdeveloper**
