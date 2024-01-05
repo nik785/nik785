@@ -2,6 +2,7 @@
 
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317125205/Java-Backend-Development-%E2%80%93-Live-Course-By-GeeksforGeeks1.png)
 
+![MasterHead](https://repository-images.githubusercontent.com/496566969/5d20dc00-6ff2-4fd3-82f9-8cba1afa11d4)
 <h1 align="center">Hi 👋, I'm Nikhil kumar</h1>
 <h3 align="center">A passionate full stack developer from India..</h3>
 
@@ -10,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik785" alt="nik785" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://repository-images.githubusercontent.com/496566969/5d20dc00-6ff2-4fd3-82f9-8cba1afa11d4" alt="nik785" /></a> </p>
+
 
 - 🔭 I’m currently working on **Website**
 
