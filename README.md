@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Website**
 
-- 🌱 I’m currently learning **Front-end webdeveloper**
+- 🌱 I’m currently learning **Front-end web development**
 
 - 👯 I’m looking to collaborate on **Any inernship.**
 
@@ -24,6 +24,8 @@
 - 📫 How to reach me **nikhilsahu785@gmail.com**
 
 - ⚡ Fun fact **I do my work when other sleep..**
+  
+- I did data base management too using python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
