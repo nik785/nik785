@@ -17,15 +17,15 @@
 
 - 🌱 I’m currently learning **Front-end web development**
 
-- 👯 I’m looking to collaborate on **Any inernship.**
+- 👯 I’m looking to collaborate on **Any internship.**
 
-- 🤝 I’m looking for help with **ecomerce website**
+- 🤝 I’m looking for help for **ecomerce website**
 
 - 📫 How to reach me **nikhilsahu785@gmail.com**
 
 - ⚡ Fun fact **I do my work when other sleep..**
   
-- I did data base management too using python.**
+- At present i am teaching Data Science in python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
